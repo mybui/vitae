@@ -20,8 +20,7 @@ email: my.bui.fi@gmail.com
 email_full: mailto:my.bui.fi@gmail.com
 website: mybui.github.io
 website_full: https://mybui.github.io
-github: trending
-twitter: twitter
+github: https://mybui.github.io
 
 # needed for travis-ci build
 exclude: [vendor]
